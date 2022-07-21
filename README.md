@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img src="https://c.tenor.com/5sSfXPzbWd8AAAAd/cat-sneaking.gif" height=100px>
+  <img src="https://c.tenor.com/5sSfXPzbWd8AAAAd/cat-sneaking.gif" height=100px width=150px>
   <samp>
     <br><br>
     Hello, Welcome to my GitHub 🐱<br>
