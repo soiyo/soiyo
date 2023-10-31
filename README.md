@@ -4,7 +4,7 @@
   <samp>
     <br><br>
     Hello, Welcome to my GitHub 🐱<br>
-    I'm Soiyo. A Developer Begginer from South Korea. <br>
+    I'm Soiyo. A Frontend Developer Begginer from South Korea. <br>
     I develop websites for studying. <br><br> 
     Contact me on <a href="https://velog.io/@soyoyun">Velog</a> or <a href="mailto:soiyosauce@gmail.com">Send mail</a>
 <!-- 
